@@ -1,0 +1,41 @@
+# ---------- Fonts: -----------
+font.family:    serif
+font.serif:     Charter, Times New Roman
+#font.style:   normal
+#font.variant: normal
+#font.weight:  normal
+#font.stretch: normal
+font.size:      24.0
+
+text.usetex: False
+mathtext.fontset: stix
+
+#font.serif:      DejaVu Serif, Bitstream Vera Serif, Computer Modern Roman, New Century Schoolbook, Century Schoolbook L, Utopia, ITC Bookman, Bookman, Nimbus Roman No9 L, Times New Roman, Times, Palatino, Charter, serif
+#font.sans-serif: DejaVu Sans, Bitstream Vera Sans, Computer Modern Sans Serif, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif
+#font.cursive:    Apple Chancery, Textile, Zapf Chancery, Sand, Script MT, Felipa, Comic Neue, Comic Sans MS, cursive
+#font.fantasy:    Chicago, Charcoal, Impact, Western, Humor Sans, xkcd, fantasy
+#font.monospace:  DejaVu Sans Mono, Bitstream Vera Sans Mono, Computer Modern Typewriter, Andale Mono, Nimbus Mono L, Courier New, Courier, Fixed, Terminal, monospace
+
+# ----------- Axes: -----------
+axes.labelsize: 24.0
+axes.linewidth: 0.8
+axes.grid: False
+
+# ---------- Ticks: -----------
+xtick.minor.bottom: False
+xtick.labelsize: 22.0
+xtick.major.size: 6
+
+ytick.minor.left: True
+ytick.labelsize: 22.0
+ytick.major.size: 6
+ytick.minor.size: 4
+
+# ---------- Legend: -----------
+legend.fontsize: 22.0
+legend.fancybox: False
+legend.edgecolor: gray
+
+# ---------- Lines: -----------
+lines.markeredgewidth: 1.5 #affects also capwidth
+lines.linestyle: --
